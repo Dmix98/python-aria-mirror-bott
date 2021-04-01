@@ -63,6 +63,7 @@
     "SECRET_JSON": {
       "description": "Get it by running python3 generate_drive_token.py",
       "value": ""
+      "required" : false
     },
     "INDEX_URL": {
       "description": "(Optional field) Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'",
